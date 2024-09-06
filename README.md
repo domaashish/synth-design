@@ -1,1 +1,5 @@
-download the zip file and enjoy making your own syth sounds
+download the zip file.
+unzip the file.
+install from for_redistribution.
+run MyAppInstaller_web.
+and enjoy.
